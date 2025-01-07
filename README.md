@@ -13,7 +13,7 @@ In this setup, the Ansible Manager will automate various tasks such as:
 - The project also introduces the concept of YAML configuration files, which are used to define Ansible playbooks.
 
 ## Objective
-The primary goal of this assignment is to automate administrative tasks using Ansible. Managing the remote servers and automating the process of updating, upgrading, and installation of services like (Apache and MariaDB). Moreover, we will learn the basic concept of the YMAL configuration language and its role in defining playbooks.
+The primary goal of this document is to automate administrative tasks using Ansible. Managing the remote servers and automating the process of updating, upgrading, and installation of services like (Apache and MariaDB). Moreover, we will learn the basic concept of the YMAL configuration language and its role in defining playbooks.
 
 ### Configuration
 
